@@ -1,0 +1,8 @@
+﻿  Source.cpp
+  String.cpp
+  Generating Code...
+C:\Users\Миша\source\repos\Project3\Project3\String.cpp(19,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Миша\source\repos\Project3\Project3\String.cpp(45,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Миша\source\repos\Project3\Project3\String.cpp(59,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Миша\source\repos\Project3\Project3\String.cpp(72,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\Миша\source\repos\Project3\x64\Debug\Project3.exe
